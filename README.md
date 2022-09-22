@@ -26,7 +26,7 @@
 
 ## 📁 Acesso a pagina
 
-:link: <a href="https://amandaafernandes.github.io/Apeperia_Alura-Layout_Responsivo/"> Link da Apeperia </a> (pagina estática). 
+:link: <a href="https://amandaafernandes.github.io/Apeperia_Alura-Layout_Responsivo/" target="_blank" rel="noopener noreferrer"> Link da Apeperia </a> (pagina estática). 
 
 ## :computer: Ferramentas e Tecnologias utilizadas:
 <li>Javascript;</li> 
